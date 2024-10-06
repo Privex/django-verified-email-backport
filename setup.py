@@ -33,7 +33,7 @@ class PyTest(TestCommand):
         sys.exit(errno)
 
 setup(
-    name='django-verified-email',
+    name='django-verified-email-backport',
     version='0.1.3',
     description='Verified email changes for django',
     long_description=long_description,
