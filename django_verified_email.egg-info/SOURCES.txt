@@ -1,5 +1,6 @@
 LICENSE
 README.rst
+setup.cfg
 setup.py
 django_verified_email.egg-info/PKG-INFO
 django_verified_email.egg-info/SOURCES.txt
