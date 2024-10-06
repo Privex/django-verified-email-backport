@@ -2,11 +2,11 @@ LICENSE
 README.rst
 setup.cfg
 setup.py
-django_verified_email.egg-info/PKG-INFO
-django_verified_email.egg-info/SOURCES.txt
-django_verified_email.egg-info/dependency_links.txt
-django_verified_email.egg-info/requires.txt
-django_verified_email.egg-info/top_level.txt
+django_verified_email_backport.egg-info/PKG-INFO
+django_verified_email_backport.egg-info/SOURCES.txt
+django_verified_email_backport.egg-info/dependency_links.txt
+django_verified_email_backport.egg-info/requires.txt
+django_verified_email_backport.egg-info/top_level.txt
 test/test_functional.py
 verified_email_change/__init__.py
 verified_email_change/apps.py
