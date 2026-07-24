@@ -8,7 +8,7 @@ from django.shortcuts import resolve_url
 from django.utils.functional import cached_property
 from django.utils.translation import gettext as _
 
-from decoratormixins.auth import LoginRequiredMixin
+from django.contrib.auth.mixins import LoginRequiredMixin
 
 from .forms import ChangeEmailForm, ChangeEmailCheckPasswordForm
 from .signals import email_changed
